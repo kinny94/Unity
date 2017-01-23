@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\LoseCollider.cs" />
      <Compile Include="Assets\Scripts\Music.cs" />
      <Compile Include="Assets\Scripts\ball.cs" />
+     <Compile Include="Assets\Scripts\brick.cs" />
      <Compile Include="Assets\Scripts\levelManager.cs" />
      <Compile Include="Assets\Scripts\paddle.cs" />
  <Reference Include="UnityEngine.UI">
