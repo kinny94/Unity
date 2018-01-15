@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7657bbe5ab4790e43ac79d0587bce36f
+timeCreated: 1515987775
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blockt
+  fontNames:
+  - Blockt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{5C726AB4-DD78-EB8E-673E-E4EE7FF11B6E}") = "Number-Wizard-UI", "Assembly-CSharp.csproj", "{C76668FF-416E-3A6D-FA28-C3433E58206C}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number-Wizard-UI", "Assembly-CSharp.csproj", "{C76668FF-416E-3A6D-FA28-C3433E58206C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +36,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
